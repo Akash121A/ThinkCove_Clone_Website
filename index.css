@@ -151,6 +151,9 @@ section{
     height: 550px;
     background-color: black;
 }
+.img .first{
+    width: 790px;
+}
 .para .icon{
     margin-left: 40px;
 }
